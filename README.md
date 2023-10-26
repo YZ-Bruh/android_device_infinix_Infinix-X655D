@@ -1,10 +1,6 @@
-# Android device tree for Infinix Infinix X655D (Infinix-X655D)
+# Android device tree for Infinix X655D
 
 ```
-#
-# Copyright (C) 2023 The Android Open Source Project
-# Copyright (C) 2023 SebaUbuntu's TWRP device tree generator
-#
-# SPDX-License-Identifier: Apache-2.0
-#
+NOT TESTED
+Being developed by @YZ-Bruh
 ```
